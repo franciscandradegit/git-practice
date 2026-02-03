@@ -1,3 +1,3 @@
 Name: Francisca
 Age: 25
-Favourite color: Yellow
+Favourite color: Blue
